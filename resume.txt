@@ -1,0 +1,99 @@
+Mrunal Teniram Hatwar
+Robotics & Automation Software Engineer | Motion Control
+
+Location: Karlsruhe, Germany
+Email: mrunal.hatwar@tu-dortmund.de
+Phone: +49 17642730149
+LinkedIn: linkedin.com/in/mrunal-hatwar
+
+PROFESSIONAL PROFILE
+
+Robotics and automation software engineer with 7+ years of experience integrating complex robotic workcells and mobile manipulation systems, developing real-time C++ control software, and deploying automation solutions at international customer sites. Experienced in ROS1/ROS2, workcell-automation frameworks, and embedded motion controllers, with hands-on development of hardware drivers for robots, actuators, and sensors, plus computer vision pipelines using OpenCV and PCL. Strong background in system design and architecture, PLC programming (TwinCAT, CODESYS), and industrial communication protocols (EtherCAT, PROFINET, CANopen, Modbus, TCP/IP, OPC-UA). Published researcher (IEEE CASE 2025, ICRA 2024). Fluent in English, German B2, willing to travel up to 40% for on-site integration and deployment.
+
+CORE COMPETENCIES
+
+Robotics & Systems: ROS1/ROS2, NVIDIA Isaac Sim, Gazebo, Digital Twins, Sim-to-Real, Mobile Manipulation
+
+Programming: C/C++ (proficient), Python (proficient), IEC 61131-3 (ST/FBD/LD/IL/SFC), JavaScript (basic), Node.js, FastAPI
+
+Computer Vision: OpenCV, PCL, point cloud processing, camera integration, sensor fusion
+
+Hardware Drivers: Servo drives, encoders, EtherCAT (CoE), PROFINET, CANopen, Modbus, SPI, RS-485, APU4 embedded
+
+Control Engineering: MPC (robust/standard), PID/PIV, Kalman Filter, State Estimation, LTI System Analysis
+
+Controllers: TwinCAT, Siemens, APUs, ABB, Rockwell
+
+Functional Safety: IEC 61800-5-2 (SS1/SS2/STO/SLS/SLP), IEC 61511 (SIL), ISO 10218, EU Machinery Regulation 2023/1230
+
+Tools & DevOps: Git/GitLab, CI/CD, Docker, Ansible, Beckhoff TwinCAT, CODESYS, Linux, MATLAB/Simulink
+
+UI / Web Interfaces: Node.js, FastAPI, VueJS/React (basic); built remote robot-control web interfaces
+
+WORK EXPERIENCE
+
+Application & Support Engineer | ACS Motion Control Europe GmbH
+02/2024 – present | Karlsruhe, DE
+
+- Assumed full technical ownership of 50+ customer automation projects: requirements definition, system architecture, hardware-driver integration, acceptance testing
+- Designed and optimised real-time embedded applications in C++ and IEC 61131-3 Structured Text on industrial motion controllers, integrating servo drives, precision encoders, and EtherCAT fieldbus networks to achieve sub-nanometre multi-axis positioning.
+- Developed and deployed reusable hardware-driver and motion-library modules in C++ and IEC 61131-3, reducing commissioning time by ~20% and enabling rapid integration of new robot actuators and sensors into customer workcells.
+- Implemented and validated drive safety functions (SS1, SS2, STO, SLS, SLP) per IEC 61800-5-2; authored risk assessments and technical documentation to support CE marking for robotic cell integrations.
+- Designed customer-specific features within a modular workcell-automation framework, using defined extension points to integrate new motion skills, sensors, and safety functions.
+- Acted as primary on-site technical interface to 30+ international automation and robotics customers; travelled to customer sites for system integration, troubleshooting, and software deployment – resolving 100% of critical escalations within agreed SLAs.
+- Delivered technical training and workshops to 50+ customers, reducing support tickets by 30% and increasing customer satisfaction by 40%; authored white papers, application notes, and tutorials.
+- Built hardware-in-the-loop (HIL) test rigs for robustness validation of drive systems prior to series deployment; performed real-time latency measurements and control-loop tuning.
+
+Research Assistant | Fraunhofer Institute for Material Flow and Logistics
+10/2022 – 01/2024 | Dortmund, DE
+
+- Architected a high-fidelity digital twin of an omnidirectional mobile robot in NVIDIA Isaac Sim / ROS2, integrating camera and lidar sensor models; reduced physical prototype test cycles by 60%.
+- Developed automated parameter-optimisation algorithms (CMA-ES, Bayesian Optimisation) for non-differentiable rigid-body simulation models, reducing sim-to-real discrepancy by up to 90% and enabling direct software deployment on physical robots.
+- Collaborated with hardware teams to verify simulation models on physical systems; contributed to ICRA 2024 publication on dynamic mobile robot simulation.
+
+Student Research Assistant | CNI, TU Dortmund
+02/2022 – 07/2023 | Dortmund, DE
+
+- Developed ROS-based system architecture for emergency robotics platforms (Boston Dynamics Spot, Scout-mini) in collaboration with the German Rescue Robotic Centre, including hardware-driver integration for robot joints, cameras, and LiDAR.
+- Built a web-based remote-control UI (Node.js / FastAPI) and motion-planning interface with Meta Quest VR, covering front-end UI screens and back-end robot communication.
+- Implemented embedded deployment pipelines with Ansible on APU4d4 hardware; performed low-level system configuration and integration into the ROS-based robotics architecture.
+
+Student Research Assistant | Institute for Robot Research, TU Dortmund
+12/2021 – 01/2024 | Dortmund, DE
+
+- Implemented PID, MPC, and Kalman Filter algorithms for stable bipedal locomotion on embedded systems (Nao humanoid robots); designed the full closed-loop control architecture for competition-ready performance.
+- Achieved 3rd place at RoboCup German Open 2023 and 4th place at RoboCup World Championship 2022 – validating algorithm robustness under real-world competitive conditions.
+
+Manager Automation Engineering | Reliance Industries Limited
+07/2018 – 01/2021 | Dahej, India
+
+- Managed automation and control systems for large-scale petrochemical plants (asset value >$500M); ensured IEC 61511 SIL functional-safety compliance across all instrument and control systems.
+- Led root-cause analyses and safety risk assessments; defined technical specifications for control system upgrades, coordinating with vendors, contractors, and operational stakeholders to improve system uptime by 90%.
+- Received 3x R-Sammaan Award for technical excellence in control system reliability.
+
+EDUCATION
+
+M.Sc. Robotics and Automation | TU Dortmund
+11/2020 – 11/2023 | Dortmund, DE
+Grade: 1.6 | Nominated for the DAAD Excellence Award
+
+B.E. Instrumentation and Control Engineering | L.D. College of Engineering
+08/2014 – 07/2018 | Ahmedabad, IN
+Grade: 1.6 | First in class overall performance
+
+SELECTED PROJECTS
+
+Robust MPC for 2D LTI System (05/2022 – 07/2022)
+- Developed two robust Model Predictive Controllers (single and double robust horizon) for a 2D LTI system; comparative analysis of closed-loop cost, execution time, and constraint violations.
+
+UR10 Cobot Kinematics Simulator (02/2022 – 04/2022)
+- Built forward/inverse kinematics using Denavit-Hartenberg parameters; implemented trajectory planning, 3D visualisation, and pick-and-place simulation with the Peter Corke Robotics Toolbox.
+
+PUBLICATIONS
+
+Automated Tuning of Non-Differentiable Rigid Body Simulation Models for Wheeled Mobile Robots – IEEE CASE 2025 (Author)
+Simulation Modeling of Highly Dynamic Omnidirectional Mobile Robots Based on Real-World Data – ICRA 2024 (Contributor)
+
+LANGUAGES
+
+English — Fluent (C2) | German — Professional Working Proficiency (B2) | Hindi / Marathi — Native

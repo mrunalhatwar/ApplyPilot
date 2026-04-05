@@ -1,0 +1,13 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(rm -rf /Users/hatwar/Documents/myproject/ApplyPilot/.venv)",
+      "Bash(/usr/local/bin/python3.13 -m venv /Users/hatwar/Documents/myproject/ApplyPilot/.venv)",
+      "Bash(python3 -c \"import site; print\\(site.getusersitepackages\\(\\)\\); print\\(site.getsitepackages\\(\\)\\)\")",
+      "Bash(/Users/hatwar/Documents/myproject/ApplyPilot/.venv/bin/python:*)",
+      "Bash(brew install:*)",
+      "Bash(pip install:*)",
+      "Bash(/Users/hatwar/Documents/myproject/ApplyPilot/.venv/bin/pip install:*)"
+    ]
+  }
+}
